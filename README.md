@@ -1,3 +1,3 @@
 # Calculadora-JS
 
-Projeto foi desenvolvido utilizando meus conhecimentos na linguagem JavaScript
+Projeto foi desenvolvido utilizando meus conhecimentos na linguagem JavaScript.
